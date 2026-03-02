@@ -1,5 +1,4 @@
-<<<<<<< HEAD
-<<<<<<< HEAD
+
 =======
 >>>>>>> 5dc8d3a8158c3535ed9ebacf1e586274d3042966
 # Smile Capture 
