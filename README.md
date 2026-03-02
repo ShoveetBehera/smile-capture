@@ -1,4 +1,4 @@
-# Smile Capture 📸
+# Smile Capture 
 
 So basically this project captures a photo of you automatically when you smile — no button pressing, nothing. Just open it, sit in front of your camera, and smile. It saves the photo on its own.
 
