@@ -1,6 +1,4 @@
 
-=======
->>>>>>> 5dc8d3a8158c3535ed9ebacf1e586274d3042966
 # Smile Capture 
 
 So basically this project captures a photo of you automatically when you smile — no button pressing, nothing. Just open it, sit in front of your camera, and smile. It saves the photo on its own.
@@ -71,6 +69,4 @@ Camera not opening — something else is probably using it (Zoom, browser, etc).
 
 Smile not detecting — more light, face the camera directly, hold the smile for a moment instead of a quick flash.
 =======
-# SMILE-CAPTURE
->>>>>>> 1452191d4f24519fb5207645beb1b5284bdc3011
 
