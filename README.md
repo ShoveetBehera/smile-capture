@@ -1,4 +1,5 @@
-# Smile Capture 📸
+<<<<<<< HEAD
+# Smile Capture 
 
 So basically this project captures a photo of you automatically when you smile — no button pressing, nothing. Just open it, sit in front of your camera, and smile. It saves the photo on its own.
 
@@ -67,3 +68,7 @@ Lighting also matters way more than I expected. Works best when your face is wel
 Camera not opening — something else is probably using it (Zoom, browser, etc). Close those and try again, or change `VideoCapture(0)` to `VideoCapture(1)` in the script.
 
 Smile not detecting — more light, face the camera directly, hold the smile for a moment instead of a quick flash.
+=======
+# SMILE-CAPTURE
+>>>>>>> 1452191d4f24519fb5207645beb1b5284bdc3011
+
