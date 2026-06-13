@@ -22,7 +22,7 @@ smile_counter = 0
 last_capture_time = 0
 photo_count = 0
 
-cap = cv2.VideoCapture(0)
+cap = cv2.VideoCapture(1)
 
 if not cap.isOpened():
     print("Cannot open camera")
